@@ -12,8 +12,7 @@ On this app you will be match with friends once you complete the 10 question sur
 
 ```
 
-   ![cad](https://user-images.githubusercontent.com/28827821/32027434-45361846-b9a6-11e7-9b24-94a153c33d2c.JPG)
-
+   ![sadf](https://user-images.githubusercontent.com/28827821/32359283-9da1d7fa-c012-11e7-8145-85d4e436201b.JPG)
 
 
 
